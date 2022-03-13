@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🧔‍♂️ I'm a fullstack developer using python, HTML/CSS/JS, react
+- 🧔‍♂️ I'm a fullstack developer using python, HTML/CSS/JS, react, django
 - 👯 I’m looking to contribute to some opensource projects
 - 🤣 I'm currently working on a small library with sample background animations for react
 - 📫 How to reach me: sandilsranasinghe@gmail.com
