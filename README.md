@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🧔‍♂️ I'm a fullstack developer using python, HTML/CSS/JS, react
+- 👯 I’m looking to contribute to some opensource projects
+- 🤣 I'm currently working on a small library with sample background animations for react
+- 📫 How to reach me: sandilsranasinghe@gmail.com
+- 🖤 I love watching anime
 
 <!--
 **sandilsranasinghe/sandilsranasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
