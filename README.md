@@ -3,7 +3,7 @@
 - 👯 I’m looking to contribute to some opensource projects
 - 🤣 I'm currently working on a small library with sample background animations for react
 - 📫 How to reach me: sandilsranasinghe@gmail.com
-- 🖤 I love watching anime
+- 🖤 My hobbies include watching anime, taking naps and playing valorant
 
 <!--
 **sandilsranasinghe/sandilsranasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
