@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🧔‍♂️ I'm a fullstack developer using python, HTML/CSS/JS, react, django
-- 👯 I’m looking to contribute to some opensource projects
-- 🤣 I'm currently working on a small library with sample background animations for react
+- 👯 I'm currently working on a GSoC project with Wagtail
 - 📫 How to reach me: sandilsranasinghe@gmail.com
 - 🖤 My hobbies include watching anime, taking naps and playing valorant
 
