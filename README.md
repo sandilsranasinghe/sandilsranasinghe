@@ -2,7 +2,7 @@
 - 🧔‍♂️ I'm a fullstack developer using python, HTML/CSS/JS, react, django
 - 👯 I'm currently working on a GSoC project with Wagtail
 - 📫 How to reach me: sandilsranasinghe@gmail.com
-- 🖤 My hobbies include watching anime, taking naps and playing valorant
+- 🖤 My hobbies include watching anime, taking naps and playing mobile games
 
 <!--
 **sandilsranasinghe/sandilsranasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
