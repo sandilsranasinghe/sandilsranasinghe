@@ -3,7 +3,7 @@
 - 📫 How to reach me: sandilsranasinghe@gmail.com
 - 🖤 My hobbies include watching anime, taking naps and playing mobile games
 - 🌱 I’m currently a computer science engineering undergraduate student
-- :computer: check out my site sandilsranasinghe.github.io
+- :computer: check out my site https://sandilsranasinghe.com/
 
 <!--
 **sandilsranasinghe/sandilsranasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
